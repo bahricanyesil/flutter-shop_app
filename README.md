@@ -2,6 +2,8 @@
 
 An inclusive mobile shop app where I use packages such as http, provider and so on.
 
+![Shop App](https://github.com/bahricanyesil/flutter-shop_app/blob/master/screenshots/shop_app.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
